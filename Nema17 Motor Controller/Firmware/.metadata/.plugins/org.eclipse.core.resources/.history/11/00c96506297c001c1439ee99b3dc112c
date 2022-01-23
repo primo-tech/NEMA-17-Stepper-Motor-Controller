@@ -1,0 +1,19 @@
+/*
+ * motorControl.h
+ *
+ *  Created on: Jan 23, 2022
+ *      Author: alexd
+ */
+
+#ifndef INC_MOTORCONTROL_H_
+#define INC_MOTORCONTROL_H_
+
+double V;
+double fstep;
+int R = 360;
+int Nm = 32;
+int minSecs = 60;
+double dStep = 1.8;
+
+
+#endif /* INC_MOTORCONTROL_H_ */

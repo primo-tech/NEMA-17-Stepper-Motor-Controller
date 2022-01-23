@@ -1,0 +1,13 @@
+/*
+ * motorControl.c
+ *
+ *  Created on: Jan 23, 2022
+ *      Author: alexd
+ */
+
+#include <motorControl.h>
+#include "stm32l0xx_hal.h"
+#include "main.h"
+
+
+
